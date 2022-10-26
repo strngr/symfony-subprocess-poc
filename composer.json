@@ -1,0 +1,13 @@
+{
+    "name": "stranger/debug",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Valentyn Diduryk",
+            "email": "stranger@strngr.name"
+        }
+    ],
+    "require": {
+        "symfony/process": "^5.4"
+    }
+}
