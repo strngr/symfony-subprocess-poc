@@ -6,6 +6,7 @@ use Symfony\Component\Process\Process;
 
 
 $process = new Process(['php', 'info.php']);
+$process->setTty(true);
 $process->start();
 
 while ($process->isRunning()) {

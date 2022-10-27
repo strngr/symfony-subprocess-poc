@@ -1,4 +1,4 @@
-See the difference!
+Witness the difference!
 
 info.php alone:
 ```
@@ -19,3 +19,4 @@ real    0m34,074s
 user    0m0,143s
 sys     0m0,053s
 ```
+
